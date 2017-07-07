@@ -1,0 +1,8 @@
+[package]
+name = "jack-wrapper"
+version = "0.1.0"
+authors = ["paul"]
+build = "build.rs"
+
+[dependencies]
+jack-bindings = { path = "jack-bindings" }
