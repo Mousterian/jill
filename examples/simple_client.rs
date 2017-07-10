@@ -1,6 +1,6 @@
 extern crate jack_bindings;
 
-use jack_bindings::JackOptions;
+//use jack_bindings::JackOptions;
 
 pub fn main() {
     /* open a client connection to the JACK server */
